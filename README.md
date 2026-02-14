@@ -1,11 +1,12 @@
 # Hi, Arnold 👋
+[![Arnold](https://github.com/yourusername/yourusername/blob/main/images/banner.png?raw=true)](https://github.com/yourusername)
 
-<p align="center">
-<img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="150" height="150">
-<br>
-<img src="https://git-profile-readme-banner.vercel.app/api?username=arnoldk12&txt=Have%20a%20good%20day!" alt="banner">
-</p>
+Hi! 👋 Aspiring Data Analyst | Python, Data Analytics, SAP FICO | Al Ain, UAE
 
-**Always learning Python & data analytics** ✨
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-**Start your streak today!** 🚀
+**🌟 Projects**  
+- [YouTube Scraper (StaTube-inspired)](https://github.com/yourusername/your-scraper-repo) – NLP analysis, GUI with PySide6  
+- [Data Analytics Portfolio](https://github.com/yourusername/portfolio) – Google Cert projects (WIP)
+
+[![FooterBanner](https://github.com/yourusername/yourusername/blob/main/images/footer.png?raw=true)]
