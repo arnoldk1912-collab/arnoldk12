@@ -6,4 +6,4 @@
 
 **Always learning Python & data analytics** ✨
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=arnoldk12)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arnoldk1912)](https://git.io/streak-stats)
