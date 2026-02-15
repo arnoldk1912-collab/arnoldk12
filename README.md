@@ -1,4 +1,4 @@
-banner.jpg
+![Banner](banner.jpg)
 
 # Hi, Arnold 👋
 
