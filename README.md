@@ -1,7 +1,7 @@
 # Hi, Arnold 👋
 
 <p align="center">
-<img src="https://pin.it/1i1OSoz7T//git-profile-readme-banner.vercel.app/api?username=arnoldk1912-collab&txt=Have%20a%20good%20day!" alt="banner">
+<img src="https:banner.png//git-profile-readme-banner.vercel.app/api?username=arnoldk1912-collab&txt=Have%20a%20good%20day!" alt="banner">
 </p>
 
 **Always learning Python & data analytics** ✨
