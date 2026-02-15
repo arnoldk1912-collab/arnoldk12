@@ -1,3 +1,5 @@
+banner.jpg
+
 # Hi, Arnold 👋
 
 <p align="center">
