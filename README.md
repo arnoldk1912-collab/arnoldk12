@@ -1,10 +1,9 @@
-div align="center">
-  
-# Hi Arnold! 👋
-  
-**Aspiring Data Analyst** | Python • Data Analytics • SAP FICO | 🇦🇪 Al Ain
-</div>
+# Hi, Arnold 👋
 
-<div align="center">
-[![Arnold's Stats](https://github-readme-stats.vercel.app/api?username=arnoldk1912-collab&show_icons=true&theme=radical&hide_border=true)]
-</div>
+<p align="center">
+<img src="https://git-profile-readme-banner.vercel.app/api?username=arnoldk12&txt=Have%20a%20good%20day!" alt="banner">
+</p>
+
+**Always learning Python & data analytics** ✨
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arnoldk12)](https://git.io/streak-stats)
