@@ -3,7 +3,7 @@
 <p align="center">
 </p>
 
-![Banner](banner.jpg)
+![Banner](banner.gif)
 
 **Always learning Python & data analytics** ✨
 
